@@ -1,0 +1,13 @@
+[33m8223fb0[m[33m ([m[1;36mHEAD -> [m[1;32mbar-admin[m[33m)[m HEAD@{0}: merge master: Merge made by the 'ort' strategy.
+[33m9aa4855[m[33m ([m[1;31morigin/bar-admin[m[33m)[m HEAD@{1}: pull: Fast-forward
+[33m1eb4d16[m HEAD@{2}: checkout: moving from master to bar-admin
+[33m38e0c8d[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{3}: commit: theme completed
+[33m9a54784[m HEAD@{4}: commit: rtl and theme change and table modifications
+[33mba81824[m HEAD@{5}: commit: buddy,nad brand table
+[33m2ddc3f1[m HEAD@{6}: checkout: moving from bar-admin to master
+[33m1eb4d16[m HEAD@{7}: merge master: Merge made by the 'ort' strategy.
+[33ma6d89fa[m HEAD@{8}: checkout: moving from master to bar-admin
+[33m2ddc3f1[m HEAD@{9}: commit: design compete with dark and kight template
+[33mf2628e4[m HEAD@{10}: checkout: moving from master to master
+[33mf2628e4[m HEAD@{11}: commit: dark light
+[33m1fbbaf5[m HEAD@{12}: clone: from https://github.com/GTSConserve/abcari-dubai.git

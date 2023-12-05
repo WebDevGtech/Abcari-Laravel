@@ -1,0 +1,93 @@
+<?php
+
+
+return [
+
+    'coupon'=>'Coupon',
+    'addcoupon'=>'Add Coupon',
+    'add'=>'Add',
+    'edit'=>'Edit',
+    'delete'=>'Delete',
+    's.no'=>'#',
+    'name'=>'Name',
+    'image'=>'Image',
+    'couponcode'=>'Coupon Code',
+    'minimumdiscount'=>'Minimum Amount',
+    'selectcoupontype'=>'Select Coupon Type',
+    'category' =>'Category',
+    'status'=> 'Status',
+    'location' =>'Location',
+    'action' =>'Action',
+    'norecordfound'=>'Coupon Not Found',
+    'addcoupon'=>'Add Coupon',
+    'editcoupon'=>'Edit Coupon',
+    'save'=>'Save',
+    'discard'=>'Discard',
+    'wantetodelete'=>'Are you want to Delete',
+    'deletecoupon'=>'Delete Coupon',
+    'questionmark'=>'?',
+    'editcoupon'=>'Edit Coupon',
+    'update'=>'Update',
+    'selectcategory'=>'Select Category',
+    'selectposition'=>'Select Position',
+    'top'=>'Top',
+    'bottom'=>'Bottom',
+    'view'=>'View',
+    'couponcode'=>'CouponCode',
+    'minimumamount'=>'Minimum Amount',
+    'discount'=>'Discount',
+    'viewflat'=>'- Flat',
+    'viewpercentage'=>'%',
+    'coupontype'=>'Coupon Type',
+    'category'=>'Category',
+    'offer'=>'Offer',
+    'subcategory'=>'Sub Category',
+    'bar'=>'Bar',
+    'brand'=>'Brand',
+    'selectcoupontype'=>'Select Coupon Type',
+    'selectoffer'=>'Select Offer',
+    'discountvalue'=>'Discount Value',
+    'selectdiscounttype'=>'Select Discount Type',
+    'discounttype'=>'Discount Type',
+    'flat'=>'Flat',
+    'percentage'=>'Percentage',
+    'baradmin'=>'Bar Admin',
+    'countryadmin'=>'Country Admin',
+    'superadmin'=>'Super Admin',
+    'viewcoupon'=>'View Coupon',
+    //label
+    
+    'couponcode'=>'Coupon Code',
+    'couponimage'=>'Coupon Image',
+    'coupontype'=>'Coupon Type',
+    'offer'=>'Offer',
+    
+    'discountvalue'=>'Discount Value',
+    'minimumamount'=>'Minimum Amount',
+    'location'=>'Location',
+    'deletecoupon'=>'Delete Coupon',
+    'wanttodelete'=>'Are you want to delete Coupon!',
+
+    //validation
+    'name_required'=>'The Coupon Name field is required',
+    'name_max'=>'Enter Max 50 characters',
+    'name_regex'=>'Enter the Characters',
+    'coupon_code_required'=>'The Coupon Code field is required',
+    'coupon_code_max'=>'Enter Max 50 characters',
+    'coupontype_required'=>'The Coupon Type field is required',
+    'discounttype_required'=>'The Discount Type field is required',
+    'image_required'=>'Upload the Image File',
+    'image_mimes'=>'Image file required jpeg,png,jpg,gif,svg',
+    'image_max'=>'Image upload maximum size 2048',
+
+    'coupon_type_required'=>'Please Select the Coupon Type field',
+    'discount_required'=>'The discount value is required',
+    'discount_integer'=>'Enter the numbers',
+
+    'minimum_amount_required'=>'The Minimum amount field is required',
+    'minimum_amount_integer'=>'Enter the numbers',
+
+   
+
+
+];

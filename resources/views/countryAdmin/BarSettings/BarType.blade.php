@@ -1,0 +1,1 @@
+@livewire('country-admin.bar-settings.bar-type')

@@ -1,0 +1,48 @@
+<?php 
+return[
+    
+    'dashboard'=>'DashBoard',
+    'addadmins'=>'Add Admin',
+    'users'=>'Users',
+    'countryadmin'=>'Country Admin',
+    'barbucket'=>'Bar Bucket',
+    'barbucketrewardpoint'=>'Reward Points',
+     'bartieup'=>'Bar Tie Up',
+    'addbaradmin'=>'Add Bar Admin',
+    'barcategory'=>'Bar Category',
+    'rules'=>'Rules',
+    'barservice'=>'Bar Service',
+    'barsettings'=>'Bar Settings',
+    'viewadmins'=>'View Admins',
+    'units'=>'Units',
+    'countryadmins'=>'Country Admins',
+    'addcountryadmin'=>'Add Country Admin',
+    'places'=>'Places',
+    
+    'zone'=>'Zone',
+    'city'=>'City',
+    'country'=>'Country',
+    'categor'=>'Product Category',
+    'subcategor'=>'Product Sub Category',
+    'radius'=>'Radius',
+    'buddysearch'=>'Buddy Search',
+    'barandrestaurant'=>'Bar and Restaurant',
+    'paymentgateway'=>'Payment Gateway',
+    'paymentmode'=>'Payment Mode',
+    'vendorpayout'=>'Vendor Payout',
+    'postcode'=>'Post Code',
+    'product'=>'Product',
+    'productvariation'=>'Product Variation',
+    'settings'=>'Settings',
+     'orderstatus'=>'Order Status',
+     'transactionreport'=>'Transaction Report',
+     'transaction '=> 'Transaction',
+     'rewardtransaction '=>'Reward Transaction',
+     'report'=>'Report',
+     'barreport'=>'Bar Report',
+     'Liquorreport'=>'Liquor Report',
+     'foodreport'=>'Food Report',
+     'sitesettings'=>'Site Settings'
+];
+?>
+

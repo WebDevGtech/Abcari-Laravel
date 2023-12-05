@@ -1,0 +1,35 @@
+<?php
+
+
+return [
+    'title'=>'All Rules',
+    's.no'=>'#',
+    'rule'=>'Rules',
+    'add'=>'Add',
+    'edit'=>'Edit',
+    'status'=>'Status',
+    'action'=>'Action',
+    'norecordfound'=>'Rules Not Found',
+    'addrule'=>'Add Rule',
+    'selectrule'=>'Select Rule',
+    'save'=>'Save',
+    'deleterule'=>'Delete Rule',
+    'delete'=>'Delete',
+    'discard'=>'Discard',
+    'wanttodelete'=>'Are You Want to Delete',
+    'questionmark'=>'?',
+    'name'=>'Name',
+    'image'=>'Image',
+    'description'=>'Description',
+    'editrule'=>'Edit Rule',
+    //validation
+    'name_required'=>'The  Name field is required',
+    'name_regex'=>'Enter the Characters',
+    'name_max'=>'Maximum Characters 50',
+    'image_required'=>'Upload the Image File',
+    'image_mimes'=>'Image file required jpeg,png,jpg,gif,svg',
+    'image_max'=>'Image upload maximum size 2048',
+    'description_required'=>'The  Description field is required',
+    'description_regex'=>'Enter the Characters',
+    'description_max'=>'Maximum Characters 150',
+];
